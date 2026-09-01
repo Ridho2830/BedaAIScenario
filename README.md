@@ -1,9 +1,5 @@
 # BEDA Enquiry Processing System — Technical Assessment
 
-*Author: Informatics Undergraduate, Universitas Mataram*  
-*Role: AI Systems & Backend Engineering Intern Applicant*  
-*Target: BEDA AI 6-Month Internship (Bali)*
-
 ---
 
 ## Executive Overview & Design Philosophy
